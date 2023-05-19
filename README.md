@@ -1,17 +1,32 @@
-bot url  t.me/kiper_promtask_bot
+## bot url
 
-Download kbot package by cloning this repo:
-git clone https://github.com/BBKiper/kbot.git - using https
-or
-git clone git@github.com:BBKiper/kbot.git - using ssh
+```bash
+t.me/kiper_promtask_bot
+```
 
-go to the directory with project:
+## Download kbot package by cloning this repo
+Using https:
+```bash
+git clone https://github.com/BBKiper/kbot.git
+```
+
+Using ssh:
+```bash
+git clone git@github.com:BBKiper/kbot.git
+```
+
+## Go to the directory with project:
+```bash
 cd kbot
+```
 
-then run bot:
+## Then run bot:
+```bash
 ./kbot start
-
-to get detailed information on the capabilities of the bot and call help, run:
+```
+## To get detailed information on the capabilities of the bot and call help, run:
+```bash
 ./kbot --help
 or
 ./kbot -h
+```
