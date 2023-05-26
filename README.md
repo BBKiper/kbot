@@ -1,3 +1,11 @@
+# 3 week. task 5
+## All information on launching the Makefile is here:
+
+```
+make help
+```
+
+# 2 week task
 ## bot url
 
 ```bash
